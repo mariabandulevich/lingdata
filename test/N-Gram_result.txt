@@ -1,0 +1,2 @@
+Type	Rank	Freq	Range	NormFreq	NormRange
+по	1	36	1	1000000.000	1.000
